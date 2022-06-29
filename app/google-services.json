@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "563890740440",
+    "firebase_url": "https://booky-bfee3.firebaseio.com",
+    "project_id": "booky-bfee3",
+    "storage_bucket": "booky-bfee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563890740440:android:1fc1086f518b85d6868bad",
+        "android_client_info": {
+          "package_name": "com.example.booky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563890740440-as8tvbeb42s39k2i0tf9ksrn6odrr6g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDJB2LGxG1We2rP0W5o63kGYxFq0CPX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563890740440-as8tvbeb42s39k2i0tf9ksrn6odrr6g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563890740440:android:bac28845ce265319868bad",
+        "android_client_info": {
+          "package_name": "com.example.easynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563890740440-as8tvbeb42s39k2i0tf9ksrn6odrr6g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDJB2LGxG1We2rP0W5o63kGYxFq0CPX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563890740440-as8tvbeb42s39k2i0tf9ksrn6odrr6g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563890740440:android:5d35772faf97eb19868bad",
+        "android_client_info": {
+          "package_name": "com.example.freenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563890740440-as8tvbeb42s39k2i0tf9ksrn6odrr6g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDJB2LGxG1We2rP0W5o63kGYxFq0CPX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563890740440-as8tvbeb42s39k2i0tf9ksrn6odrr6g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
